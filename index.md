@@ -28,6 +28,17 @@ Mi enfoque técnico está en la infraestructura, el flujo y procesamiento de dat
 ### Contacto  
 
 ¿Buscas optimizar flujos de trabajo bioinformáticos o integrar datos ómicos?  
+<p align="center">
+  <a href="mailto:mauribrunner@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mauricio-brunner/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/mauricio-brunner/)
-* 📧 [Email](mailto:mauribrunner@gmail.com)
+  <a href="https://orcid.org/0000-0002-3692-9140">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+</p>
+
