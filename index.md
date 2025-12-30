@@ -21,7 +21,7 @@ Mi enfoque técnico está en la infraestructura, el flujo y procesamiento de dat
 
 ### Estadísticas de GitHub  
 
-<img src="https://github.com/mauri101-Ar/mauri101-Ar/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://raw.githubusercontent.com/mauri101-Ar/mauri101-Ar.github.io/main/github-metrics.svg" alt="Metrics" width="100%">
 
 ---  
 
