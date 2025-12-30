@@ -21,10 +21,7 @@ Mi enfoque técnico está en la infraestructura, el flujo y procesamiento de dat
 
 ### Estadísticas de GitHub  
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mauri101-ar&show_icons=true&theme=tokyonight&hide_border=true" alt="Tu-Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauri101-ar&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Tu-Lenguajes" />
-</p>
+<img src="https://github.com/mauri101-Ar/mauri101-Ar/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 ---  
 
