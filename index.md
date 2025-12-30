@@ -19,16 +19,6 @@ Mi enfoque técnico está en la infraestructura, el flujo y procesamiento de dat
 
 ---  
 
-### Proyectos de Integración & Data Engineering  
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **[Nombre-ETL-Genomico]** | Pipeline ETL para ingesta masiva de variantes (VCF) a base de datos estructurada. | `Python` `MongoDB` `Cromwell` |
-| **[API-Clinica]** | REST API para integrar resultados de secuenciación con la historia clínica electrónica. | `Flask/FastAPI` `SQL` `Docker` |
-| **[Dashboard-Monitoring]** | Sistema de monitoreo de pipelines de producción en tiempo real. | `Bash` `Grafana` |  
-
----  
-
 ### Estadísticas de GitHub  
 
 <p align="left">
