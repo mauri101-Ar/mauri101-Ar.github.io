@@ -1,9 +1,4 @@
-# Mauri Brunner
-### 🧬 Bioinformático
-
----
-
-### 🛠️ Tech Stack & Herramientas
+### Tech Stack & Herramientas
 
 Mi enfoque técnico está en la infraestructura, el flujo y procesamiento de datos ómicos:
 
@@ -24,7 +19,7 @@ Mi enfoque técnico está en la infraestructura, el flujo y procesamiento de dat
 
 ---
 
-### 🔌 Proyectos de Integración & Data Engineering
+### Proyectos de Integración & Data Engineering
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
@@ -34,7 +29,7 @@ Mi enfoque técnico está en la infraestructura, el flujo y procesamiento de dat
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide=stars" alt="Tu-Stats" />
