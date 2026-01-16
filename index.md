@@ -1,5 +1,9 @@
 <p align="center">Bioinformatics | Infrastructure | Data Engineering</p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-High--Throughput%20Sequencing-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Workflow%20Orchestration-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-orange?style=flat-square" />
+</p>
 ---
 
 <h3 align="center">🛠 Tech Stack & Tools</h3>
