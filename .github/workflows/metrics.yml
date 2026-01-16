@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Se ejecuta a medianoche
   schedule: [{cron: "0 0 * * *"}]
-  # Se ejecuta si haces push a main/master
   push: {branches: ["master", "main"]}
-  # Permite ejecutarlo manualmente
   workflow_dispatch:
 
 jobs:
@@ -17,21 +14,29 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Configuración básica
           user: mauri101-Ar
           template: classic
-          base: "" 
+          base: ""
           config_timezone: America/Argentina/Buenos_Aires
           
-          # === AQUÍ ESTÁ LA SOLUCIÓN ===
-          
-          # 1. Le decimos que mire también donde colaboras, no solo los tuyos
+          # Mira tus repos y colaboraciones
           repositories_affiliations: owner, collaborator
           
-          # Configuración de Lenguajes
           plugin_languages: yes
           
-          # 2. Agregamos 'jupyter notebook' para que no cuente el JSON pesado como código Python
+          # === LA MAGIA: MODO INDEPTH ===
+          # Activa el análisis de commits reales
+          plugin_languages_indepth: yes
+          
+          # Aumentamos el tiempo de espera porque leer la historia tarda más
+          plugin_languages_analysis_timeout: 60
+          
+          # FILTRO DE AUTOR: Solo cuenta líneas donde el autor coincida con esto.
+          # Agrega aquí todos los emails que hayas usado en tus commits.
+          commits_authoring: mauri101-Ar, mauribrunner@gmail.com
+          
+          # Seguimos ignorando cosas que no son código real (Notebooks, HTML, etc)
+          # NOTA: Ya no hace falta ignorar 'C', porque si no lo escribiste tú, no saldrá.
           plugin_languages_ignored: >-
             html, css, tex, kvlang, makefile, jupyter notebook
             
@@ -40,9 +45,4 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           
-          # Opcional: Si quieres ser muy preciso y analizar commits en lugar de archivos
-          # (consume más recursos pero es más exacto para Bash/R vs Python)
-          # plugin_languages_indepth: yes
-          
-          # Archivo de salida
           filename: github-metrics.svg
