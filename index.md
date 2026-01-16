@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Mauricio 👋</h1>
 <p align="center">Bioinformatics | Infrastructure | Data Engineering</p>
 
 ---
@@ -32,7 +31,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauri101-Ar/mauri101-Ar.github.io/main/github-metrics.svg" alt="GitHub Metrics" width="85%">
@@ -40,7 +39,7 @@
 
 ---
 
-<h3 align="center">📫 Get in Touch</h3>
+<h3 align="center">Get in Touch</h3>
 
 <p align="center">
   Looking to optimize bioinformatics workflows or integrate omics data?
