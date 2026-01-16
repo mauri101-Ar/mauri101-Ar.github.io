@@ -39,6 +39,10 @@
   <img src="https://raw.githubusercontent.com/mauri101-Ar/mauri101-Ar.github.io/main/github-metrics.svg" alt="GitHub Metrics" width="85%">
 </p>
 
+<h3 align="center">Contributions</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauri101-Ar&theme=github&area=true&hide_border=true" width="85%" />
+</p>
 ---
 
 <h3 align="center">Get in Touch</h3>
