@@ -20,17 +20,29 @@ jobs:
           # Configuración básica
           user: mauri101-Ar
           template: classic
-          base: "" # No queremos info basica, solo lenguajes
+          base: "" 
           config_timezone: America/Argentina/Buenos_Aires
+          
+          # === AQUÍ ESTÁ LA SOLUCIÓN ===
+          
+          # 1. Le decimos que mire también donde colaboras, no solo los tuyos
+          repositories_affiliations: owner, collaborator
           
           # Configuración de Lenguajes
           plugin_languages: yes
+          
+          # 2. Agregamos 'jupyter notebook' para que no cuente el JSON pesado como código Python
           plugin_languages_ignored: >-
-            html, css, tex, kvlang, makefile
+            html, css, tex, kvlang, makefile, jupyter notebook
+            
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
+          
+          # Opcional: Si quieres ser muy preciso y analizar commits en lugar de archivos
+          # (consume más recursos pero es más exacto para Bash/R vs Python)
+          # plugin_languages_indepth: yes
           
           # Archivo de salida
           filename: github-metrics.svg
