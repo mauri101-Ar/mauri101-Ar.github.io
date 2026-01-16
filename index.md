@@ -3,7 +3,7 @@
 
 ---
 
-### <p align="center">🛠 Tech Stack & Tools</p>
+<h3 align="center">🛠 Tech Stack & Tools</h3>
 
 <p align="center">
   My technical focus is on <b>infrastructure</b>, <b>workflows</b>, and <b>omics data processing</b>:
@@ -32,7 +32,7 @@
 
 ---
 
-### <p align="center">📊 GitHub Stats</p>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mauri101-Ar/mauri101-Ar.github.io/main/github-metrics.svg" alt="GitHub Metrics" width="85%">
@@ -40,7 +40,7 @@
 
 ---
 
-### <p align="center">📫 Get in Touch</p>
+<h3 align="center">📫 Get in Touch</h3>
 
 <p align="center">
   Looking to optimize bioinformatics workflows or integrate omics data?
