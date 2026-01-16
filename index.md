@@ -1,44 +1,60 @@
-### Tech Stack & Herramientas  
+<p align="center">Bioinformatics | Infrastructure | Data Engineering</p>
 
-Mi enfoque técnico está en la infraestructura, el flujo y procesamiento de datos ómicos:  
+---
 
-**Lenguajes de Programación**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+### <p align="center">🛠 Tech Stack & Tools</p>
 
-**Pipelines & Orquestación**  
-![Nextflow](https://img.shields.io/badge/Nextflow-000000?style=for-the-badge&logo=nextflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cromwell](https://img.shields.io/badge/Cromwell-FF6B6B?style=for-the-badge&logo=broadinstitute&logoColor=white)  
+<p align="center">
+  My technical focus is on <b>infrastructure</b>, <b>workflows</b>, and <b>omics data processing</b>:
+</p>
 
-**Bases de Datos & Backend**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)  
+<p align="center">
+  <b>Programming Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+</p>
 
----  
+<p align="center">
+  <b>Pipelines & Orchestration</b><br>
+  <img src="https://img.shields.io/badge/Nextflow-000000?style=for-the-badge&logo=nextflow&logoColor=white" alt="Nextflow">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Cromwell-FF6B6B?style=for-the-badge&logo=broadinstitute&logoColor=white" alt="Cromwell">
+</p>
 
-### Estadísticas de GitHub  
+<p align="center">
+  <b>Databases & Backend</b><br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API">
+</p>
 
-<img src="https://raw.githubusercontent.com/mauri101-Ar/mauri101-Ar.github.io/main/github-metrics.svg" alt="Metrics" width="100%">
+---
 
----  
+### <p align="center">GitHub Stats</p>
 
-### Contacto  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mauri101-Ar/mauri101-Ar.github.io/main/github-metrics.svg" alt="GitHub Metrics" width="85%">
+</p>
 
-¿Buscas optimizar flujos de trabajo bioinformáticos o integrar datos ómicos?  
+---
+
+### <p align="center">Get in Touch</p>
+
+<p align="center">
+  Looking to optimize bioinformatics workflows or integrate omics data?
+</p>
+
 <p align="center">
   <a href="mailto:mauribrunner@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
+  &nbsp;
   <a href="https://www.linkedin.com/in/mauricio-brunner/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  &nbsp;
   <a href="https://orcid.org/0000-0002-3692-9140">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
 </p>
-
